@@ -9,15 +9,6 @@
         Publisher="CN=MNAIKEL"
         Version="1.0.0.2"
         Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix">
-
-        <Properties>
-            <Description>
-                - New auto-update via GitHub Pages
-                - Increased stability
-                - New functions, remake and bugfixes
-            </Description>
-        </Properties>
-
     </MainPackage>
 
     <UpdateSettings>
@@ -25,4 +16,3 @@
     </UpdateSettings>
 
 </AppInstaller>
-
