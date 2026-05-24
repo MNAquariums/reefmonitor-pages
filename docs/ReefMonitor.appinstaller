@@ -1,1 +1,18 @@
 
+<AppInstaller
+    Uri="https://mnaquariums.github.io/reefmonitor-pages/ReefMonitor.appinstaller"
+    Version="1.0.0.2"
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+
+    <MainPackage
+        Name="ReefMonitor"
+        Publisher="CN=MNAIKEL"
+        Version="1.0.0.2"
+        Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix">
+    </MainPackage>
+
+    <UpdateSettings>
+        <OnLaunch HoursBetweenUpdateChecks="0" />
+    </UpdateSettings>
+
+</AppInstaller>
