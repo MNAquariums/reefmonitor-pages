@@ -5,7 +5,7 @@
 
     <MainPackage
         Name="MNAquariums.reefmonitor"
-        Publisher="CN=MNAquariums"
+        Publisher="CN=MIKAEL"
         Version="1.0.0.3"
         Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix" />
 
