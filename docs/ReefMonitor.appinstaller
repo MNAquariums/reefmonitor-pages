@@ -4,7 +4,7 @@
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 
     <MainPackage
-        Name="MNAquariums.reefmonitor"
+        Name="ReefMonitor"
         Publisher="CN=MIKAEL"
         Version="1.0.0.3"
         Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix" />
