@@ -9,7 +9,7 @@
         Publisher="CN=MNAquariums"
         Version="1.0.0.7"
         ProcessorArchitecture="x64"
-        Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix" />
+        Uri="https://mnaquariums.github.io/reefmonitor-pages/ReefMonitor.appinstaller.xml?v=4" />
 
     <PublisherSettings>
         <PublisherCertificate File="pkg_hidden_01/mnaquariums_codesign.cer" />
