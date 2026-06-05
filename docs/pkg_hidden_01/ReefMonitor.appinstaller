@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-    Uri="https://mnaquariums.github.io/reefmonitor-pages/ReefMonitor.appinstaller?v=7"
+    Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/ReefMonitor.appinstaller?v=8"
     Version="1.0.0.0"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 
