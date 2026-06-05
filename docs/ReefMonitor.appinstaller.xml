@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-    Uri="https://mnaquariums.github.io/reefmonitor-pages/ReefMonitor.appinstaller?v=3"
+    Uri="https://mnaquariums.github.io/reefmonitor-pages/ReefMonitor.appinstaller.xml?v=4"
     Version="1.0.0.0"
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 
@@ -9,7 +9,7 @@
         Publisher="CN=MNAquariums"
         Version="1.0.0.7"
         ProcessorArchitecture="x64"
-        Uri="https://mnaquariums.github.io/reefmonitor-pages/ReefMonitor.appinstaller.xml?v=4" />
+        Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix" />
 
     <PublisherSettings>
         <PublisherCertificate File="pkg_hidden_01/mnaquariums_codesign.cer" />
