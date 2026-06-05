@@ -10,12 +10,12 @@
         ProcessorArchitecture="x64"
         Uri="https://mnaquariums.github.io/reefmonitor-pages/pkg_hidden_01/reef_app.msix" />
 
+    <PublisherSettings>
+        <PublisherCertificate File="pkg_hidden_01/mnaquariums_codesign.cer" />
+    </PublisherSettings>
+
     <UpdateSettings>
         <OnLaunch HoursBetweenUpdateChecks="0" />
     </UpdateSettings>
-    
-<PublisherSettings>
-        <PublisherCertificate File="pkg_hidden_01/mnaquariums_codesign.cer" />
-    </PublisherSettings>
 
 </AppInstaller>
