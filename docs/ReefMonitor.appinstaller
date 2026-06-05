@@ -13,4 +13,9 @@
     <UpdateSettings>
         <OnLaunch HoursBetweenUpdateChecks="0" />
     </UpdateSettings>
+    
+<PublisherSettings>
+        <PublisherCertificate File="pkg_hidden_01/mnaquariums_codesign.cer" />
+    </PublisherSettings>
+
 </AppInstaller>
